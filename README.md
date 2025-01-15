@@ -4,7 +4,7 @@ Submitted by: **Jaskirat Singh**
 
 **iOS101-PreWork** is an app that... [Asks for user Name, University and Occupation. Submission changes the app background color.] 
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -23,6 +23,33 @@ The following **required** functionality is completed:
   </div>
   
 ## App Brainstorming (Step 4)
+
+### Favorite Applications:
+- ChatGPT
+  -  Haptic feedback in every interation.
+  -  Minimalistic design.
+- Clock
+  -  App icon functions as real time clock.
+- Transit
+  - colorful palette and easy to navigate
+  - maps integration
+
+### App Idea: **FlowCRM**
+
+**Description**: FlowCRM is a customer relationship management app designed for small to medium businesses that prioritizes simplicity, usability, and real-time interaction. It combines all the essential CRM features but with a minimalistic design and intuitive user interface. Drawing inspiration from the features you like—haptic feedback, a clean design, and easy navigation—it allows users to manage customer interactions, track sales, schedule follow-ups, and analyze business performance with ease. The app integrates real-time notifications, calendar sync, and smart contact organization, all while maintaining a sleek, colorful dashboard that is visually engaging without being overwhelming.
+
+**Features**:
+
+*   **Haptic Feedback**: Every touchpoint (like updating a contact’s status or adding a new task) triggers a subtle haptic vibration to give users a physical sense of progress.
+*   **Minimalistic, Colorful Design**: The app features a vibrant but clean interface, with a color-coded system for tracking different stages of customer interaction (e.g., green for active clients, red for overdue follow-ups).
+*   **Smart Contact Management**: Contacts are automatically categorized and tagged based on interactions, sales stage, and priority level. AI-driven suggestions help you follow up at the right time.
+*   **Task and Follow-up Scheduler**: Easily schedule follow-ups, meetings, and tasks, with reminders pushed to your phone. Integration with your calendar ensures no tasks are missed.
+*   **Real-Time Notifications**: Receive instant notifications for new leads, emails, or messages, with the option for push notifications or in-app alerts.
+*   **Map and Location Integration**: If your business involves physical meetings or locations, you can integrate Google Maps to track customer visits or service areas.
+*   **Data Analytics Dashboard**: A simple yet powerful dashboard for tracking key metrics, like sales pipeline status, lead conversion rates, and activity overviews.
+
+**Why it works**: FlowCRM combines simplicity with functionality, offering just the right features for a small business to manage customer relationships without the clutter or complexity of traditional CRMs. By integrating smart suggestions, a real-time clock interface, and user-centered design, it maximizes productivity while maintaining a focus on user experience and customer-centricity.
+
 
 ## Notes
 
